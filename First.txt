@@ -3,6 +3,7 @@ Adding New line after 1st commit
 Added new line 2nd time
 After creating first branch
 Adding new line after creating 2nd Branch
-Adding new line in Master after fixing Merge Conflicts
+Adding new line after Fixing Merge Conflicts
+
 
 
