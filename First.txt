@@ -2,4 +2,6 @@ I created my first Git File
 Adding New line after 1st commit
 Added new line 2nd time
 After creating first branch
-Adding new line in master  after adding line in 2nd branch
+Adding new line after creating 2nd Branch
+
+
